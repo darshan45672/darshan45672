@@ -23,6 +23,7 @@
 <a href="https://linkedin.com/in/darshan bhandary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshan bhandary" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_dare_striker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_dare_striker" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/drshnbhandary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="drshnbhandary" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@darshan_bhandary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@darshan_bhandary" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,9 +34,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshan45672&show_icons=true&locale=en" alt="darshan45672" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshan45672&" alt="darshan45672" /></p>
-
-
-
 
 ## Snake eating my Contribution Graph!!!
 ![snake gif](https://github.com/darshan45672/darshan45672/blob/output/github-contribution-grid-snake.gif)
