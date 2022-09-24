@@ -1,7 +1,7 @@
 ![MasterHead](https://i0.wp.com/vusci.blog/wp-content/uploads/2020/01/banner-for-article-2.jpg?fit=1588%2C610&ssl=1s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Darshan Bhandary</h1>
-<h3 align="center">An undergraduate passionate in programming and avid to learn new things.</h3>
-<img align="right"alt="Coding"width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">Hello! I am an undergraduate student with a never ending love for programming and a burning passion for Web development. I love talking to new people and discuss about new ideas. I have recently started with Web Development and loving it since.</h3>
+<img align="right"alt="Coding"width="500" src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshan45672&label=Profile%20views&color=0e75b6&style=flat" alt="darshan45672" /> </p>
 
@@ -40,6 +40,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshan45672&show_icons=true&locale=en" alt="darshan45672" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshan45672&" alt="darshan45672" /></p>
+
 
 ## Snake eating my Contribution Graph!!!
 ![snake gif](https://github.com/darshan45672/darshan45672/blob/output/github-contribution-grid-snake.gif)
