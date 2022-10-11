@@ -40,7 +40,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshan45672&show_icons=true&locale=en" alt="darshan45672" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshan45672&" alt="darshan45672" /></p>
-<h3>A b</h3>
+<h3>b</h3>
 
 ## Snake eating my Contribution Graph!!!
 ![snake gif](https://github.com/darshan45672/darshan45672/blob/output/github-contribution-grid-snake.gif)
