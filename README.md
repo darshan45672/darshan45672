@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshan45672&label=Profile%20views&color=0e75b6&style=flat" alt="darshan45672" /> </p>
 
-<p align="left"> <a href="https://twitter.com/darshan_bhandry" target="blank"> <img src="https://img.shields.io/twitter/follow/darshan_bhandry?logo=twitter&style=for-the-badge" alt="darshan_bhandry" /></a> </p>
-
 - 🔭 I’m currently working on **Track back**
 
 - 🌱 I’m currently learning **Python and React**
