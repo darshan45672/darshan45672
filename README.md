@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Track back**
 
-- 🌱 I’m currently learning **Python and Word press**
+- 🌱 I’m currently learning **Python and Web Development**
 
 - 👯 I’m looking to collaborate on [Scietific Calculator](https://github.com/darshan45672/Project-on-Scientefic-Calculator)
 
