@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on [Scietific Calculator](https://github.com/darshan45672/Project-on-Scientefic-Calculator)
 
 
-- 💬 Ask me about **programming related c, python**
+- 💬 Ask me about **programming related c, python, Web**
 
 - 📫 How to reach me **drshnbhandary@gmail.com**
 
