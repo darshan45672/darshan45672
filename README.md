@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python and Web Development**
 
-- 👯 I’m looking to collaborate on [Scietific Calculator](https://github.com/darshan45672/Project-on-Scientefic-Calculator)
+- 👯 I’m looking to collaborate on [Blood Bank and Donor Management System](https://github.com/darshan45672/Project-on-Scientefic-Calculator)
 
 
 - 💬 Ask me about **programming related c, python, Web development**
