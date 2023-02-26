@@ -1,6 +1,7 @@
 ![MasterHead](https://i0.wp.com/vusci.blog/wp-content/uploads/2020/01/banner-for-article-2.jpg?fit=1588%2C610&ssl=1s1600/2000_600px.gif)
 
 <h1 align="center">Hi 👋, I'm Darshan Bhandary</h1>
+
 <h3 align="center">Hello! I am an undergraduate student with a never ending love for programming and a burning passion for Web development. I love talking to new people and discuss about new ideas. I have recently started with Web Development and loving it since.</h3>
 <img align="right"alt="Coding"width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
