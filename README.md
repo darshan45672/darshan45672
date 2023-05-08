@@ -13,7 +13,6 @@
 
 - 👯 I’m looking to collaborate on [Blood Bank and Donor Management System](https://github.com/darshan45672/Blood-Bank-and-Donor-Management-system)
 
-
 - 💬 Ask me about **programming related c, python, Web development**
 
 - 📫 How to reach me **drshnbhandary@gmail.com**
