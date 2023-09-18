@@ -19,6 +19,7 @@
 - ⚡ Fun fact **I'm a humours extrovert**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://dev.to/darshan_bhandary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="darshan_bhandary" height="30" width="40" /></a>
 <a href="https://twitter.com/https://twitter.com/darshan_bhandry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/darshan_bhandry" height="30" width="40" /></a>
