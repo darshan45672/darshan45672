@@ -1,4 +1,5 @@
 ![MasterHead](https://i0.wp.com/vusci.blog/wp-content/uploads/2020/01/banner-for-article-2.jpg?fit=1588%2C610&ssl=1s1600/2000_600px.gif)
+[![An image of @darshan_bhandary's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/darshan_bhandary)]([https://holopin.io/@darshan_bhandary](https://www.holopin.io/@darshan_bhandary#badges))
 
 <h1 align="center">Hi 👋, I'm Darshan Bhandary</h1> 
 <h3 align="center">Hello! I am an undergraduate student with a never ending love for programming and a burning passion for Web development. I love talking to new people and discuss about new ideas. I have recently started with Web Development and loving it since.</h3>
