@@ -1,4 +1,3 @@
-![MasterHead](https://i0.wp.com/vusci.blog/wp-content/uploads/2020/01/banner-for-article-2.jpg?fit=1588%2C610&ssl=1s1600/2000_600px.gif)
 [![An image of @darshan_bhandary's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/darshan_bhandary)]([https://holopin.io/@darshan_bhandary](https://www.holopin.io/@darshan_bhandary#badges))
 
 <h1 align="center">Hi 👋, I'm Darshan Bhandary</h1> 
