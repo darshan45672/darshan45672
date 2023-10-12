@@ -1,5 +1,6 @@
 [![An image of @darshan_bhandary's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/darshan_bhandary)]([https://holopin.io/@darshan_bhandary](https://www.holopin.io/@darshan_bhandary#badges))
 
+
 <h1 align="center">Hi 👋, I'm Darshan Bhandary</h1> 
 <h3 align="center" style="color:black;">Hello! I am an undergraduate student with a never ending love for programming and a burning passion for Web development. I love talking to new people and discuss about new ideas. I have recently started with Web Development and loving it since.</h3>
 <img align="right"alt="Coding"width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
