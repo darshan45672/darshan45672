@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/darshan_bhandary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="darshan_bhandary" height="30" width="40" /></a>
-<a href="https://twitter.com/darshan_bhandry" target="blank"><img align="center" src="https://github.com/darshan45672/darshan45672/images/Twitter%20X.svg" alt="https://twitter.com/darshan_bhandry" height="30" width="40" /></a>
+<a href="https://twitter.com/darshan_bhandry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/darshan_bhandry" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/darshan-bhandary-b8691a249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/darshan-bhandary-b8691a249" height="30" width="40" /></a>
 <a href="https://codesandbox.com/darshan_bhandary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="darshan_bhandary" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_dare_striker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_dare_striker" height="30" width="40" /></a>
