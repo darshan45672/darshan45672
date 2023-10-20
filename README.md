@@ -26,31 +26,31 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:drshnbhandary@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://www.linkedin.com/in/darshan-bhandary-b8691a249/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+  <a href="https://green-water-010995700.3.azurestaticapps.net/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+  <a href="https://twitter.com/darshan_bhandry" target="_blank">
      <img src="https://img.shields.io/badge/Twitter-FF57?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+  <a href="https://www.instagram.com/mr_dare_striker/" target="_blank">
      <img src="https://img.shields.io/badge/Instagram-FF8975?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+  <a href="https://leetcode.com/Darshan_Bhandary/" target="_blank">
      <img src="https://img.shields.io/badge/Leetcode-FF5722?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+  <a href="https://www.hackerrank.com/profile/drshnbhandary" target="_blank">
      <img src="https://img.shields.io/badge/HackerRank-FF5722?style=for-the-badge&logo=hackerrank&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+  <a href="https://www.hackerearth.com/@Darshan_Bhandary" target="_blank">
      <img src="https://img.shields.io/badge/HackerEarth-FF5722?style=for-the-badge&logo=hackerearth&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+  <a href="https://discord.com/channels/@darshan_bhandary" target="_blank">
      <img src="https://img.shields.io/badge/Discord-FF5722?style=for-the-badge&logo=discord&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
