@@ -59,7 +59,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=arduino,c,cpp,cs,html,css,javascript,typescript,java,kotlin,mysql,nodejs,php,r,ruby,python,postgres,jquery,androidstudio,azure,bootstrap,docker,cloudflare,git,wordpress,vscode,github,figma,tailwind,kubernetes,laravel,linux,mongodb,postman,unity,sass,react,express,firebase,flask,photoshop,replit,raspberrypi,powershell,nginx,gcp,eclipse,django,bash" />
+    <img src="https://skillicons.dev/icons?i=arduino,c,cpp,cs,html,css,javascript,typescript,java,kotlin,mysql,nodejs,php,r,ruby,python,postgres,jquery,androidstudio,azure,bootstrap,docker,cloudflare,git,wordpress,vscode,github,figma,tailwind,kubernetes,laravel,linux,mongodb,postman,unity,sass,react,express,firebase,flask,photoshop,replit,raspberrypi,powershell,nginx,gcp,eclipse,django,bash,discord,dotnet" />
 </div>
 
 <br/>
