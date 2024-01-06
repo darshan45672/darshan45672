@@ -1,5 +1,6 @@
 [![An image of @darshan_bhandary's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/darshan_bhandary)]([https://holopin.io/@darshan_bhandary](https://www.holopin.io/@darshan_bhandary#badges))
 
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;" /> <br>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=I'm+Darshan+Bhandary!;" />
