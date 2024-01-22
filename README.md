@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Python and Web Development**
 
-- 👯 I’m looking to collaborate on [Blood Bank and Donor Management System](https://github.com/darshan45672/Blood-Bank-and-Donor-Management-system)
+- 👯 I’m looking to collaborate on [Eventopia](https://github.com/darshan45672/Eventopia)
 
 - 💬 Ask me about **programming related c, python, Web development**
 
