@@ -1,4 +1,3 @@
-
 [![An image of @darshan_bhandary's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/darshan_bhandary)]([https://holopin.io/@darshan_bhandary](https://www.holopin.io/@darshan_bhandary#badges))
 
 <h1 align="center">
