@@ -65,7 +65,7 @@
 
 <br/>
 <hr/>
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ 📊 GitHub Stats ⚡</h2>
 <div align="center">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshan45672&show_icons=true&locale=en&layout=compact" alt="darshan45672" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshan45672&show_icons=true&locale=en" alt="darshan45672" /></p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshan45672&" alt="darshan45672" /></p>
