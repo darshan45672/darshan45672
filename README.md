@@ -74,7 +74,6 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-
     
   ![snake gif](https://github.com/darshan45672/darshan45672/blob/output/github-contribution-grid-snake.svg)
   
