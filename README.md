@@ -12,11 +12,11 @@
 
 - 🔭 I’m currently working on **Track back**
 
-- 🌱 I’m currently learning **Python and Web Development**
+- 🌱 I’m currently learning **Application Development**
 
 - 👯 I’m looking to collaborate on [Yoojak](https://github.com/darshan45672/yoojak-new)
 
-- 💬 Ask me about **programming related c, python, Web development**
+- 💬 Ask me about **programming related Software development**
 
 - 📫 How to reach me **drshnbhandary@gmail.com**
 
