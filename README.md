@@ -56,11 +56,21 @@
   </a>
 </div>
  <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h1 align="center">⚒️ Languages and Tools ⚒️</h1>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=arduino,c,cpp,cs,html,css,javascript,typescript,java,kotlin,mysql,nodejs,php,r,ruby,python,postgres,jquery,androidstudio,azure,bootstrap,docker,cloudflare,git,wordpress,vscode,github,figma,tailwind,kubernetes,laravel,alpinejs,linux,mongodb,postman,unity,sass,react,express,firebase,flask,photoshop,replit,raspberrypi,powershell,nginx,gcp,eclipse,django,bash,discord,dotnet" />
+    <h2 align="center">⚒️Fundamental Languages⚒️</h2>
+    <img src="https://skillicons.dev/icons?i=php,js,ts,py,java,cpp,c,cs,ruby,r" /> <br/>
+    <h2 align="center">⚒️ Frontend ⚒️</h2>
+    <img src="https://skillicons.dev/icons?i=html,htmx,bootstrap,tailwind,astro,nextjs,wordpress,vite,react,redux,vue,threejs,jquery,materialui,nuxtjs,p5js,electron,flask,alpinejs,angular&perline=10" /><br/>
+    <h2 align="center">⚒️ Backend ⚒️</h2>
+    <img src="https://skillicons.dev/icons?i=laravel,php,babel,express,jenkins,jest,nestjs,graphql,py" /> <br/>
+    <h2 align="center">⚒️ Databases ⚒️</h2>
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,appwrite" /> <br/>
+    <h2 align="center">⚒️ Cloud Services ⚒️</h2>
+    <img src="https://skillicons.dev/icons?i=aws,azure,firebase,netlify,vercel,gcp" /> <br/>
+    <h2 align="center">⚒️ Frameworks ⚒️</h2>
+    <img src="https://skillicons.dev/icons?i=laravel,nextjs,django,symfony,vuejs,nestjs,nuxtjs" /> <br/>
 </div>
 
 <br/>
