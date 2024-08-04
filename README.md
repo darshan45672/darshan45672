@@ -60,17 +60,49 @@
 <br/>
 <div align="center">
     <h2 align="center">⚒️Fundamental Languages⚒️</h2>
-    <img src="https://skillicons.dev/icons?i=php,js,ts,py,java,cpp,c,cs,ruby,r" /> <br/>
-    <h2 align="center">⚒️ Frontend ⚒️</h2>
-    <img src="https://skillicons.dev/icons?i=html,htmx,bootstrap,tailwind,astro,nextjs,wordpress,vite,react,redux,vue,threejs,jquery,materialui,nuxtjs,p5js,electron,flask,alpinejs,angular&perline=10" /><br/>
-    <h2 align="center">⚒️ Backend ⚒️</h2>
-    <img src="https://skillicons.dev/icons?i=laravel,php,babel,express,jenkins,jest,nestjs,graphql,py" /> <br/>
+    <img src="https://skillicons.dev/icons?i=php,js,ts,py,java,cpp,c,cs,ruby,r" /> <br/><br/>
+    <table>
+      <tr>
+        <td align="center">
+          <h1 align="center">⚒️ Frontend ⚒️</h1>
+        </td>
+        <td align="center">
+          <h1 align="center">⚒️ Bakend ⚒️</h1>
+        </td>
+      </tr>
+        <tr>
+            <td>
+            <img src="https://skillicons.dev/icons?i=html,htmx,bootstrap,tailwind,astro,nextjs,wordpress,vite,react,redux,vue,threejs,jquery,materialui,nuxtjs,p5js,electron,flask,alpinejs,angular&perline=10" /><br/>
+            </td>
+            <td>
+                <img src="https://skillicons.dev/icons?i=laravel,php,babel,express,jenkins,jest,nestjs,graphql,py,django" /> <br/>
+            </td>
+        </tr>
+        <tr>
+            <td>
     <h2 align="center">⚒️ Databases ⚒️</h2>
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,appwrite" /> <br/>
+            </td>
+            <td>
     <h2 align="center">⚒️ Cloud Services ⚒️</h2>
-    <img src="https://skillicons.dev/icons?i=aws,azure,firebase,netlify,vercel,gcp" /> <br/>
+            </td>
+        </tr>
+        <tr>
+            <td><div align="center">
+    <img align="center" src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,appwrite" /> <br/>
+            </div>
+            </td>
+            <td>
+                <div align="center">
+    <img align="center" src="https://skillicons.dev/icons?i=aws,azure,firebase,netlify,vercel,gcp" /> <br/>
+                </div>
+            </td>
+        </tr>
+    </table><br/>
     <h2 align="center">⚒️ Frameworks ⚒️</h2>
-    <img src="https://skillicons.dev/icons?i=laravel,nextjs,django,symfony,vuejs,nestjs,nuxtjs" /> <br/>
+    <img align="center" src="https://skillicons.dev/icons?i=laravel,nextjs,django,symfony,vuejs,nestjs,nuxtjs" /> <br/>
+    <h2 align="center">⚒️ Other tools and softwares ⚒️</h2>
+    <img align="center" src="https://skillicons.dev/icons?i=anaconda,androidstudio,arduino,bash,codepen,dart,deno,docker,dotnet,eclipse,figma,flutter,gcp,git,github,githubactions,gitlab,grafana,idea,kafka,kotlin,kubernetes,linux,md,matlab,nginx,notion,opencv,ps,postman,prisma,pycharm,pytorch,replit,sass,sentry,tensorflow,ubuntu,unity,unreal,vscode,webflow,windows&perline=14" /> <br/>
+    
 </div>
 
 <br/>
