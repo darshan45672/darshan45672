@@ -67,7 +67,7 @@
           <h1 align="center">⚒️ Frontend ⚒️</h1>
         </td>
         <td align="center">
-          <h1 align="center">⚒️ Bakend ⚒️</h1>
+          <h1 align="center">⚒️ Backend ⚒️</h1>
         </td>
       </tr>
         <tr>
@@ -99,9 +99,15 @@
         </tr>
     </table><br/>
     <h2 align="center">⚒️ Frameworks ⚒️</h2>
-    <img align="center" src="https://skillicons.dev/icons?i=laravel,nextjs,django,symfony,vuejs,nestjs,nuxtjs" /> <br/>
-    <h2 align="center">⚒️ Other tools and softwares ⚒️</h2>
-    <img align="center" src="https://skillicons.dev/icons?i=anaconda,androidstudio,arduino,bash,codepen,dart,deno,docker,dotnet,eclipse,figma,flutter,gcp,git,github,githubactions,gitlab,grafana,idea,kafka,kotlin,kubernetes,linux,md,matlab,nginx,notion,opencv,ps,postman,prisma,pycharm,pytorch,replit,sass,sentry,tensorflow,ubuntu,unity,unreal,vscode,webflow,windows&perline=14" /> <br/>
+    <img align="center" src="https://skillicons.dev/icons?i=laravel,nextjs,django,symfony,vuejs,nestjs,nuxtjs" /> <br/><br/>
+    <h2 align="left">⚒️ Mobile Application Development ⚒️</h2>
+    <img align="left" src="https://skillicons.dev/icons?i=dart,flutter,firebase,react,kotlin,java,javascript,tailwind" >
+    <h2 align="left">⚒️ Maintenance and Operational Tools ⚒️</h2>
+    <img align="left" src="https://skillicons.dev/icons?i=docker,github,githubactions,grafana,nginx,sentry,kubernetes" >
+    <h2 align="left">⚒️ Machine Learning ⚒️</h2>
+    <img align="left" src="https://skillicons.dev/icons?i=anaconda,azure,py,django,pytorch,tensorflow,opencv" >
+    <h2 align="left">⚒️ Other tools and softwares ⚒️</h2>
+    <img align="left" src="https://skillicons.dev/icons?i=anaconda,androidstudio,arduino,bash,codepen,dart,deno,docker,dotnet,eclipse,figma,flutter,gcp,git,github,githubactions,gitlab,grafana,idea,kafka,kotlin,kubernetes,linux,md,matlab,nginx,notion,opencv,ps,postman,prisma,pycharm,pytorch,replit,sass,sentry,tensorflow,ubuntu,unity,unreal,vscode,webflow,windows&perline=14" /> <br/>
     
 </div>
 
