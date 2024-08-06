@@ -10,13 +10,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshan45672&label=Profile%20views&color=0e75b6&style=flat" alt="darshan45672" /> </p>
 
-- 🔭 I’m currently working on **Track back**
+- 🔭 I’m currently working on **Cloud**
 
-- 🌱 I’m currently learning **Application Development**
+- 🌱 I’m currently learning **Software Development**
 
-- 👯 I’m looking to collaborate on [Yoojak](https://github.com/darshan45672/yoojak-new)
+- 👯 I’m looking to collaborate on [Mantan](https://github.com/darshan45672/mantan)
 
-- 💬 Ask me about **programming related Software development**
+- 💬 Ask me about **Software and Application development**
 
 - 📫 How to reach me **drshnbhandary@gmail.com**
 
