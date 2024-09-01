@@ -42,7 +42,7 @@
   <a href="https://discord.com/channels/@darshan_bhandary" target="_blank">
      <img src="https://skillicons.dev/icons?i=discord" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-  <a href="https://darshan-bhandary.vercl.app/" target="_blank">
+  <a href="https://darshan-bhandary.vercel.app/" target="_blank">
      <img src="https://skillicons.dev/icons?i=webpack" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
