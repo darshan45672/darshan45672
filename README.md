@@ -90,7 +90,7 @@
         </tr>
     </table><br/>
     <h2 align="center">⚒️ Frameworks ⚒️</h2>
-    <img align="center" src="https://skillicons.dev/icons?i=laravel,nextjs,django,symfony,vuejs,nestjs,nuxtjs" /> <br/><br/>
+    <img align="center" src="https://skillicons.dev/icons?i=laravel,nextjs,astro,django,symfony,vuejs,nestjs,nuxtjs" /> <br/><br/>
 </div>
     <h2 align="left">⚒️ Maintenance and Operational Tools ⚒️</h2>
     <img align="left" src="https://skillicons.dev/icons?i=docker,github,githubactions,grafana,nginx,sentry,kubernetes" ><br/><br/>
