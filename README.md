@@ -24,7 +24,6 @@
 - ⚡ Fun fact **I'm a humours extrovert**
 <br>
 
-
 <p align="left"><br><img src="https://github-profile-trophy.vercel.app/?username=darshan45672" alt="darshan" /></p>
 
 <h3 align="left">Connect with me:</h3>
