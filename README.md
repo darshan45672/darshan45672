@@ -46,6 +46,7 @@
      <img src="https://skillicons.dev/icons?i=webpack" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
+
  <hr/>
 <h1 align="center">⚒️ Languages and Tools ⚒️</h1>
 <br/>
