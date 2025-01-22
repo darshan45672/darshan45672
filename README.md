@@ -106,7 +106,6 @@
     <img src="https://skillicons.dev/icons?i=androidstudio,arduino,atom,au,bash,bitbucket,blender,codepen,deno,dotnet,eclipse,figma,git,heroku,ai,latex,md,matlab,npm,ps,postman,powershell,rabbitmq,replit,sass,styledcomponents,selenium,terraform,vscode,webflow" /> <br/>
     </div>
         
-    
 
 <br/>
 <hr/>
