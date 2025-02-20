@@ -48,6 +48,7 @@
 </div>
 
  <hr/>
+
 <h1 align="center">⚒️ Languages and Tools ⚒️</h1>
 <br/>
 <div align="center">
