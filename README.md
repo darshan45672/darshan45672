@@ -134,6 +134,3 @@
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Thanks+for+visiting!✌️;" /> <br>
 </h3>
-
-
-https://short-guan-4d7.notion.site/DevVoid-Assignment-Round-1-28bd5361ca14800091baf201d88f4e12
